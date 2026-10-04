@@ -10,3 +10,6 @@ Icon?
 **/package-lock.json
 *.log
 **/image/
+
+.doc/
+wiki-worker/
