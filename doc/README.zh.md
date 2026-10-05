@@ -14,7 +14,7 @@
 
 ***
 
-> Go 圖片快取伺服器，具備 libvips 即時轉檔、四層快取鏈與依日期分類的軟刪除回收桶
+> 自架 Go 圖片快取伺服器，具備 libvips 即時縮圖、WebP／AVIF 轉檔與四層 CDN 快取
 
 ## 目錄
 
@@ -62,7 +62,7 @@ graph TB
 Just [open an issue](https://github.com/pardnchiu/go-image-server/issues/new) to share an idea.
 
 <a href="https://github.com/pardnchiu/go-image-server/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pardnchiu/go-image-server&cache_bust=2026-10-04" alt="go-image-server contributors" />
+  <img src="https://contrib.rocks/image?repo=pardnchiu/go-image-server&cache_bust=2026-10-06" alt="go-image-server contributors" />
 </a>
 
 ***

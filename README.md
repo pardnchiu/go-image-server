@@ -14,7 +14,7 @@
 
 ***
 
-> A Go image caching server with on-the-fly libvips transforms, four-layer caching, and date-based soft-delete trash
+> A self-hosted Go image caching server with on-the-fly libvips resizing, WebP/AVIF conversion, and four-layer CDN caching
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ This project is licensed under the [MIT LICENSE](LICENSE).
 Just [open an issue](https://github.com/pardnchiu/go-image-server/issues/new) to share an idea.
 
 <a href="https://github.com/pardnchiu/go-image-server/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pardnchiu/go-image-server&cache_bust=2026-10-04" alt="go-image-server contributors" />
+  <img src="https://contrib.rocks/image?repo=pardnchiu/go-image-server&cache_bust=2026-10-06" alt="go-image-server contributors" />
 </a>
 
 ***
